@@ -1,0 +1,164 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+header {
+  height: 80px;
+  border: none;
+  background-color: rgba(6, 43, 6, 0.667);
+}
+
+.header-logo {
+  padding: 25px 15px;
+  font-size: 28px;
+  float: left;
+  cursor: pointer;
+}
+
+li {
+  list-style: none;
+}
+
+nav li {
+  float: right;
+  padding: 30px 20px;
+  font-size: 18px;
+}
+
+main {
+  height: 677px;
+  width: 100%;
+}
+
+.profile {
+  width: 100%;
+  margin-top: 20px;
+  text-align: center;
+  float: left;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+.center {
+  margin: auto;
+  width: 100%;
+  padding: 278px 0px;
+  text-align: center;
+  color: black;
+}
+
+.uwu {
+  font-size: 40px;
+  padding: 0px;
+}
+
+.button {
+  background-color: hsl(122, 50%, 38%);
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 20px;
+}
+
+.tengah {
+  font-size: 20px;
+  padding: 30px;
+  height: 420px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+}
+
+.tup {
+  position: absolute;
+  left: 86%;
+  padding: 10px;
+  font-size: 15px;
+  top: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.rtu {
+  position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  left: 91%;
+  top: 30px;
+  font-size: 15px;
+}
+
+.tup:hover {
+  color: red;
+}
+
+.rtu:hover {
+  color: red;
+}
+
+aside {
+  background-image: url(Downloads/asd.png);
+  background-repeat: no-repeat;
+  position: absolute;
+  left: 30%;
+  width: auto;
+  
+}
+
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 20px;
+  border-radius: 20px;
+}
+
+.pqw {
+  top: 475px;
+  position: absolute;
+  left: 55%;
+}
+
+footer {
+  height: 120px;
+  background-color: #5b5b5b;
+  width: 100%;
+  color: whitesmoke;
+  text-align: center;
+  float: left;
+}
+
+footer li {
+  margin: 10px 70px 10px 10px;
+  text-align: right;
+}
+
+img {
+  float: left;
+  margin: 10px;
+  margin-left: 0px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 70px;
+}
+h2 {
+  margin: 10px;
+}
